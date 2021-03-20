@@ -5,6 +5,6 @@ import { View } from '../../views/view';
 @customElement('about-view')
 export class AboutView extends View {
   render() {
-    return html`<div>Content placeholder modified</div>`;
+    return html`<div>Content placeholder modified1</div>`;
   }
 }
